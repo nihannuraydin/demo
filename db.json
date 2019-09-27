@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "orders": [
+    { "id": 1, "city": "Ankara", "amount":12.34},
+    { "id": 2, "city": "Istanbul", "amount":23.45 },
+    { "id": 3, "city": "Adana", "amount":76.43 }
+  ]
 }
